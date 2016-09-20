@@ -14,11 +14,11 @@
  * @type {{apiKey: string, authDomain: string, databaseURL: string, storageBucket: string, messagingSenderId: string}}
  */
 var config = {
-    apiKey: "",
-    authDomain: "",
-    databaseURL: "",
-    storageBucket: "",
-    messagingSenderId: ""
+    apiKey: "AIzaSyClzgGXbHIyIM-R286trVG5MYspmN0Qu6E",
+    authDomain: "testapps-31019.firebaseapp.com",
+    databaseURL: "https://testapps-31019.firebaseio.com",
+    storageBucket: "testapps-31019.appspot.com",
+    messagingSenderId: "886362018829"
 };
 firebase.initializeApp(config);
 
